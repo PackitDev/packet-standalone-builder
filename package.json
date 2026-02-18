@@ -1,0 +1,6 @@
+{
+  "name": "packet-standalone-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build standalone executables for Packet SDK"
+}
